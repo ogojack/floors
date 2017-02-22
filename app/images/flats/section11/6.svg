@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 34.24px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-6, .cls-7 {
+        fill: #fff;
+        font-family: Open Sans;
+      }
+
+      .cls-2 {
+        font-size: 40.06px;
+      }
+
+      .cls-3 {
+        font-size: 47.25px;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-size: 40.26px;
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 31.8px;
+      }
+
+      .cls-5 {
+        white-space: pre;
+      }
+
+      .cls-7 {
+        font-size: 31.07px;
+      }
+    </style>
+  </defs>
+  <image width="1000" height="1000" xlink:href="6.png"/>
+  <text class="cls-1" transform="translate(251.25 800.33)">1,6</text>
+  <text class="cls-1" transform="translate(98.81 774.81)">4,2</text>
+  <text class="cls-1" transform="translate(154.13 508.92)">10,9</text>
+  <text class="cls-1" transform="translate(191.21 208.17)">5,3</text>
+  <text class="cls-1" transform="translate(509.03 635.06)">15,7</text>
+  <text class="cls-1" transform="translate(761.07 620.28)">20,2</text>
+  <text class="cls-2" transform="translate(382.5 458.84)">2</text>
+  <text class="cls-3" transform="translate(380.26 399.19)">6</text>
+  <text class="cls-4" transform="translate(450.35 396.71)">66,3<tspan class="cls-5" x="80.5" y="0"> м</tspan></text>
+  <text class="cls-6" transform="translate(564.52 386.13) scale(0.58)">2</text>
+  <text class="cls-7" transform="translate(461.75 456.04)">35,9 м</text>
+  <text class="cls-7" transform="translate(554.49 445.7) scale(0.58)">2</text>
+</svg>
